@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I love Prayut very much.
+=======
+I don't love Prayut
+>>>>>>> feature2
