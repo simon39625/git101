@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hahahalo
+=======
+hahahalolo
+>>>>>>> 112ed09551ca9c464568519fb7306643388db089
